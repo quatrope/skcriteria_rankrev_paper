@@ -1,0 +1,15 @@
+# Dependencies to reproduce the case studies in this folder
+# (case1.ipynb, case2.ipynb, all_dm.py, all_pipelines.py).
+
+scikit-criteria>=0.10
+numpy
+pandas
+matplotlib
+seaborn
+networkx
+tqdm
+
+# To execute/open the notebooks.
+jupyter
+nbconvert
+ipykernel

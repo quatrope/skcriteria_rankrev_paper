@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Environments / misc
+.env
+.venv
+*.egg-info/
